@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<computadoras>
+<computadora>
+    <marca> HP</marca>
+    <modelo>  G7 ATHLON 3020E  </modelo>
+  </computadora>
+<computadora>
+    <marca> ASUS</marca>
+    <modelo>Vivobook X515JA-BQ2076T </modelo>
+  </computadora>
+<computadora>
+    <marca> LENOVO</marca>
+    <modelo> LAPTOP-U7I8D09A </modelo>
+  </computadora>
+</computadoras>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/david/OneDrive/Escritorio/Practica05_A180075/Ejemplo1.xsl"?>
+<ciudades>
+  <ciudad>
+    <nombre> Juchitan de Zaragoza</nombre>
+    <habitantes> 113,570 </habitantes>
+  </ciudad>
+ <ciudad>
+    <nombre>Villa-hermosa</nombre>
+    <habitantes> 684.847 </habitantes>
+  </ciudad>
+ <ciudad>
+    <nombre> Comitan</nombre>
+    <habitantes> 120,500 </habitantes>
+  </ciudad>
+</ciudades>
